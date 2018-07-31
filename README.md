@@ -1,6 +1,6 @@
 # docker-redis-ex
 
-Enable the redis keyspace notifications with Ex.
+The docker redis, enabling the redis keyspace notifications with Ex.
 
 ## Why need this
 
